@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
         println("hello")
         println("second line")
         println("third line")
+        println("fourth line")
     }
 }
